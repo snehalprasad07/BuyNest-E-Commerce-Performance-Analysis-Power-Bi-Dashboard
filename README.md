@@ -55,12 +55,16 @@ This BuyNest E-Commerce dashboard provides a comprehensive view of business perf
 - Customer Strategy: Implement loyalty programs for top customers. Target consumer segment with personalized marketing. Improve retention strategies.
 - Product Strategy: Promote high-profit sub-categories. Re-evaluate loss-making products. And bundle low-performing products with best sellers.
 - Business Intelligence: Use forecasting for demand planning. Set region-wise sales targets. Monitor KPIs regularly through dashboard.
-# Dashboard 
+# Live Power BI Dashboard
+<a href="https://app.powerbi.com/groups/me/reports/539cb48c-0068-4813-b6db-f26d918454e1/d2c0a191c68149e25205?experience=power-bi">Live Dashboard Link</a>
+# Dashboard Screenshots
 <a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Overview%20Page%20Screenshot.png">Overview Page</a>
 
 <a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Sales%20Analysis%20Page%20Screenshot.png">Sales Analysis Page</a>
 
 <a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Profit%20%26%20Loss%20Analysis%20Page%20Screenshot.png">Profit & Loss Analysis Page</a>
+# Author
+Snehal Prasad
 
 
 
